@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](../screenshot/mobile.png)
-![](../screenshot/desktop.png)
+![](screenshot/mobile.png)
+![](screenshot/desktop.png)
 
 
 ### Links
 
-- Solution URL: [](https://github.com/khazin/3-column-preview-card-component)
-- Live Site URL: [](https://khazin.github.io/3-column-preview-card-component/)
+- Solution URL: [https://github.com/khazin/3-column-preview-card-component](https://github.com/khazin/3-column-preview-card-component)
+- Live Site URL: [https://khazin.github.io/3-column-preview-card-component/](https://khazin.github.io/3-column-preview-card-component/)
 
 ## My process
 

@@ -24,7 +24,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: var(--Very-light-gray);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -33,10 +33,10 @@ body {
   position: relative;
 }
 .container {
-  background-color: var(--Very-light-gray);
-  height: 1508px;
   min-width: 375px;
-  width: 77.6%;
+  width: 100vw;
+  padding: 80px 0;
+
 
   position: relative;
   display: flex;
@@ -127,7 +127,6 @@ body {
 
 @media screen and (min-width: 1000px) {
   .container {
-    width: 88.2vw;
     height: 100vh;
 
     display: flex;
